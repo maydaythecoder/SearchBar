@@ -7,27 +7,30 @@ This project is a Next.js application designed to allow users to search for imag
 Here's an overview of the project's directory structure:
 
 ```
-├── app/
-│   ├── _components/
-│   │   ├── PinItem.tsx
-│   │   ├── PinList.tsx
-│   │   ├── SearchBar.tsx
-│   │   ├── SearchResults.tsx
-│   ├── globals.css
-│   ├── layout.tsx
-│   ├── page.tsx
-├── node_modules/
-├── .env
-├── .gitignore
-├── License.txt
-├── next-env.d.ts
-├── next.config.mjs
-├── package-lock.json
-├── package.json
-├── postcss.config.mjs
-├── README.md
-├── tailwind.config.ts
-├── tsconfig.json
+searchbar
+ ├──searchbartest
+ | ├──.next/
+ | ├── app/
+ | │   ├── _components/
+ | │   │   ├── PinItem.tsx
+ | │   │   ├── PinList.tsx
+ | │   │   ├── SearchBar.tsx
+ | │   │   ├── SearchResults.tsx
+ | │   ├── globals.css
+ | │   ├── layout.tsx
+ | │   ├── page.tsx
+ | ├── node_modules/
+ | ├── .env
+ | ├── .gitignore
+ | ├── License.txt
+ | ├── next-env.d.ts
+ | ├── next.config.mjs
+ | ├── package-lock.json
+ | ├── package.json
+ | ├── postcss.config.mjs
+ | ├── tailwind.config.ts
+ | ├── tsconfig.json
+ ├── README.md
 ```
 
 ### Key Files and Directories
