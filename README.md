@@ -22,7 +22,6 @@ searchbar
  | ├── node_modules/
  | ├── .env
  | ├── .gitignore
- | ├── License.txt
  | ├── next-env.d.ts
  | ├── next.config.mjs
  | ├── package-lock.json
@@ -30,6 +29,7 @@ searchbar
  | ├── postcss.config.mjs
  | ├── tailwind.config.ts
  | ├── tsconfig.json
+ ├── License.txt
  ├── README.md
 ```
 
